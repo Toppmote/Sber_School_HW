@@ -1,0 +1,13 @@
+rootProject.name = 'labs'
+include 'Task_1'
+include 'Task_2'
+include 'Task_3'
+include 'Task_4'
+include 'Task_5'
+include 'Task_6'
+include 'Task_7'
+include 'Task_8'
+include 'Task_9'
+include 'Task_10'
+include 'Task_11'
+
